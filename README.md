@@ -1,7 +1,7 @@
 ![MasterHead](https://www.oditeksolutions.com/wp-content/uploads/2017/01/asp-net-development.png)
 <h1 align="center">Hi 👋, I'm Sourav Kumar Das</h1>
 <h3 align="center">I'm a backend heavy full-stack developer having 8 years of hands-on experience in designing, developing, and maintaining products and services for Sales and Distribution System and mobility & logistics business domains</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravdas09028&label=Profile%20views&color=0e75b6&style=flat" alt="souravdas09028" /> </p>
 
